@@ -76,7 +76,7 @@ Next, to pre-populate the database with some seed data, you must run `npm run se
 
 After the db is populated, run the command `npm run start`. If you are actively developing, you can alternatively run `npm run watch` so that every time you save the file you don't need to restart the server (thanks to nodemon)
 
-To see a walkthrough video of this, please view this Google Drive link:
+To see a walkthrough video of this, please view this Google Drive link: https://drive.google.com/file/d/1AQCmDLYoUTI_YGx71PTDew77HzDbdTxb/view?usp=sharing
 
 ## Contributing
 
